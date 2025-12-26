@@ -1,6 +1,10 @@
 {
     "name": "BeEF",
+<<<<<<< HEAD
     "version": "0.6.0.0",
+=======
+    "version": "0.5.4.0",
+>>>>>>> c308392cb3a7bf9025c661931b553d9835aacdcb
     "description": "The Browser Exploitation Framework Project",
     "scripts": {
         "docs": "./node_modules/.bin/jsdoc -c conf.json"
@@ -12,4 +16,8 @@
         "jsdoc-to-markdown": "^9.1.3"
     },
     "dependencies": {}
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> c308392cb3a7bf9025c661931b553d9835aacdcb

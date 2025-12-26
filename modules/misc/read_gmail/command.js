@@ -1,5 +1,9 @@
 //
+<<<<<<< HEAD
 // Copyright (c) 2006-2026Wade Alcorn wade@bindshell.net
+=======
+// Copyright (c) 2006-2025Wade Alcorn wade@bindshell.net
+>>>>>>> c308392cb3a7bf9025c661931b553d9835aacdcb
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.

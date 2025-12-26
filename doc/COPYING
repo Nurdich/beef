@@ -2,7 +2,11 @@ COPYING -- Describes the terms under which the Browser Exploitation
 Framework (BeEF) is distributed. A copy of the GNU General Public License
 (GPL) is appended to this file.
 
+<<<<<<< HEAD
 BeEF (Browser Exploitation Framework) is (C) 2006-2026 Wade Alcorn.
+=======
+BeEF (Browser Exploitation Framework) is (C) 2006-2020 Wade Alcorn.
+>>>>>>> c308392cb3a7bf9025c661931b553d9835aacdcb
 
 This program is free software; you may redistribute and/or modify it under
 the terms of the GNU General Public License as published by the Free
